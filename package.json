@@ -1,8 +1,8 @@
 {
   "name": "game-order-api",
   "version": "1.0.0",
+  "description": "后端接口，用于保存订单数据",
   "main": "index.js",
-  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
